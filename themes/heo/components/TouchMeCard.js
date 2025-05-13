@@ -34,7 +34,7 @@ export default function TouchMeCard() {
         backContent={
           <Link href={ }>
             <div className='font-[1000] text-xl h-full'>
-              {siteConfig('HEO_SOCIAL_CARD_TITLE_3', null, CONFIG)}
+              {siteConfig(' ', null, CONFIG)}
             </div>
           </Link>
         }
