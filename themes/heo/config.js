@@ -45,7 +45,7 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
+  
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
